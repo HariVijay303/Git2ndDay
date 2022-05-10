@@ -6,5 +6,6 @@ public class Git2ndDay {
 		
 		System.out.println(1+1);
 		System.out.println("Vijay");
+		System.out.println("Hari");
 	}
 }
